@@ -23,7 +23,7 @@ Female ID (subject) and Male ID (playback stimulus) were included as random effe
 Fixed effects included in the full models: dyadic consortship rate + female sociability + male sociability + male cumulative bond strength + long-term familiarity + dyadic social bond strength + home range overlap + female reproductive state × male consortship rate.  
 For the response duration model (a) and the orientation to source model (d), the variable avoidance response (yes / no) was also included as a fixed effect.
 
-## 2. Graphical Summary
+## 2. Visualisation of Key Findings
 
 ### Figure 1. Female behavioural responses to male signature whistle playbacks.
 
