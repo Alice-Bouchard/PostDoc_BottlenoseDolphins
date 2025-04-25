@@ -25,5 +25,14 @@ For the response duration model (a) and the orientation to source model (d), the
 
 ## 2. Graphical Summary
 
-### Figure 1. [Insert short title for first plot]
+### Figure 1. Female behavioural responses to male signature whistle playbacks.
 
+![Figure 1](graphs/plot_paper.png)
+
+Boxplots of the duration of female response to playbacks depending on (a) female reproductive state and (b) whether the female displayed an avoidance response to the playback or not, with actual values (coloured dots). The middle lines indicate medians, the boxes represent the quartiles, and the vertical lines show the 1.5× interquartile range. (c) Distance moved away from the playback source as a function of male consortship rate and female’s reproductive state.   The lines represent the linear regression fits, with the shaded areas indicating the 95% confidence intervals. In (a) and (c), the two colours indicate the reproductive state of the female, whereas in (b) the colours correspond to whether the female displayed an avoidance response to the playback or not.
+
+### Figure 2. Avoidance vs. approach behaviours of females in response to male ID.
+
+![Figure 2](graphs/plot_paper2.png)
+
+Boxplots of the distance moved (a) away and (b) towards the playback source depending on the identity of the male whose signature whistle was used for the playback, with actual values (coloured dots). The middle lines indicate medians, the boxes represent the quartiles, and the vertical lines show the 1.5× interquartile range. The different colours represent the identity of the different males. 
